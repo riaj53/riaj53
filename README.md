@@ -1,31 +1,28 @@
-<h1 align="center">Hi 👋, I'm riaj53</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is Riajul Islam
+#### App developer from Bangladesh
+ a passionate self-taught full stack web developer and a freelance software engineer from Dhaka. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riaj53&label=Profile%20views&color=0e75b6&style=flat" alt="riaj53" /> </p>
+Skills: Dart/ Flutter /
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riaj53" alt="riaj53" /></a> </p>
+- 🔭 I’m currently working on SquadHead 
+- 🌱 I’m currently learning Flutter 
+- 👯 I’m looking to collaborate on SquadHead 
+- 💬 Ask me about Flutter 
+- 📫 How to reach me: mdriajakh@gmail.com 
 
-- 🔭 I’m currently working on [SquadHead](https://github.com/Squad-Head)
 
-- 🌱 I’m currently learning **Flutter**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riaj53)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhriaj.r//)  
 
-- 👯 I’m looking to collaborate on [SquadHead](https://github.com/Squad-Head)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 💬 Ask me about **Flutter**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riaj53)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **mdriajakh@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=riaj53&show_icons=true&count_private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akh-riaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akh-riaj/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/akhriaj.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/akhriaj.r/" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riaj53)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+![GitHub metrics](https://metrics.lecoq.io/riaj53)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaj53&show_icons=true&locale=en&layout=compact" alt="riaj53" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=riaj53)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riaj53&show_icons=true&locale=en" alt="riaj53" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaj53&" alt="riaj53" /></p>
+![Profile views](https://gpvc.arturio.dev/riaj53)  
